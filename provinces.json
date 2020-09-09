@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "name": "ACEH",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 2,
+    "name": "SUMATERA UTARA",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 3,
+    "name": "SUMATERA BARAT",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 4,
+    "name": "RIAU",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 5,
+    "name": "JAMBI",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 6,
+    "name": "SUMATERA SELATAN",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 7,
+    "name": "BENGKULU",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 8,
+    "name": "LAMPUNG",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 9,
+    "name": "KEPULAUAN BANGKA BELITUNG",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 10,
+    "name": "KEPULAUAN RIAU",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 11,
+    "name": "DKI JAKARTA",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 12,
+    "name": "JAWA BARAT",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 13,
+    "name": "JAWA TENGAH",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 14,
+    "name": "DI YOGYAKARTA",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 15,
+    "name": "JAWA TIMUR",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 16,
+    "name": "BANTEN",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 17,
+    "name": "BALI",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 18,
+    "name": "NUSA TENGGARA BARAT",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 19,
+    "name": "NUSA TENGGARA TIMUR",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 20,
+    "name": "KALIMANTAN BARAT",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 21,
+    "name": "KALIMANTAN TENGAH",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 22,
+    "name": "KALIMANTAN SELATAN",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 23,
+    "name": "KALIMANTAN TIMUR",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 24,
+    "name": "KALIMANTAN UTARA",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 25,
+    "name": "SULAWESI UTARA",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 26,
+    "name": "SULAWESI TENGAH",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 27,
+    "name": "SULAWESI SELATAN",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 28,
+    "name": "SULAWESI TENGGARA",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 29,
+    "name": "GORONTALO",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 30,
+    "name": "SULAWESI BARAT",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 31,
+    "name": "MALUKU",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 32,
+    "name": "MALUKU UTARA",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 33,
+    "name": "PAPUA BARAT",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  },
+  {
+    "id": 34,
+    "name": "PAPUA",
+    "created_at": "2020-09-09 10:40:55",
+    "updated_at": "2020-09-09 10:40:55"
+  }
+]
